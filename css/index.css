@@ -1,0 +1,93 @@
+{
+    margin: 0;
+    padding: 0;
+}
+  
+  h1
+  {
+    color: white;
+    text-align: center;
+  }
+  
+
+  h2
+  {
+    color: white;
+    text-align: left;
+  }
+
+  p1 
+  {
+    color: white;
+    text-align: left;
+  }
+  
+  p1 
+  {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  p2
+  {
+    color: white;
+    text-align: left;
+  }
+  
+  p2 
+  {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  h1 
+  {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  h2
+  {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+    div0
+{
+    margin: 5px;
+    padding: 8px;
+    float: right;
+   
+}
+    div1
+{
+    margin: 30px;
+    padding: 5px;
+    float: left;
+   
+}
+
+    div2
+{
+    margin: 30px;
+    padding: 5px;
+    float: left;
+   
+}
+
+*#rcorners1 {  NOT IN use
+    border-radius: 15px 50px;
+    background: #ff7300;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+  }
+
+  
