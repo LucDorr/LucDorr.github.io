@@ -13,13 +13,13 @@
   h2
   {
     color: white;
-    text-align: center;
+    text-align: left;
   }
 
-  p
+  p1 
   {
-    color: rgb(255, 222, 132);
-    text-align: center;
+    color: white;
+    text-align: left;
   }
   
   p1 
