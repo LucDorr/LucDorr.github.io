@@ -61,7 +61,7 @@
 }
     div1
 {
-    margin: 30px;
+    margin: 5px;
     padding: 5px;
     float: left;
    
@@ -69,11 +69,22 @@
 
     div2
 {
-    margin: 30px;
+    margin: 5px;
     padding: 5px;
-    float: left;
+    float: right;
    
 }
+
+  .kennisev{
+    float: right;
+    width: 70%;
+  }
+
+  .infme{
+    float: left;
+    width: 70%;
+  }
+
 
 *#rcorners1 {  NOT IN use
     border-radius: 15px 50px;

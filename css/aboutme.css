@@ -16,6 +16,12 @@
     text-align: left;
   }
 
+  h3
+  {
+    color: white;
+    text-align: center;
+  }
+
   p 
   {
     color: rgb(255, 247, 247);
@@ -74,6 +80,14 @@
     padding: 5px;
     float: left;
    
+}
+  section{
+    margin: 3%;
+  }
+
+.abtme{
+  float: left;
+  width: 65%;
 }
 
 *#rcorners1 {  NOT IN use
