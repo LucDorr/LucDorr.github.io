@@ -132,7 +132,7 @@ var gamearea = {
         clearInterval(this.interval);
         gamearea.context.fillStyle = "red";
         gamearea.context.font = "25px Consolas";
-        gamearea.context.fillText("MEMEKING IS DEDE", 200, 250);
+        gamearea.context.fillText("YOU GOT HIT BY THE BOYS", 120, 250);
         
     },
 }
