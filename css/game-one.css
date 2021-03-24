@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: rgb(143, 143, 255);
+}
+
+canvas {
+    background-image: url("dinobackground.png");
+    animation: animatedBackground 4s linear infinite;
+}
+
+@keyframes animatedBackground {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: -600px 0px;
+    }
+}
