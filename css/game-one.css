@@ -1,10 +1,10 @@
 body {
     text-align: center;
-    background-color: rgb(143, 143, 255);
+    background-color: (0, 255,21);
 }
 
 canvas {
-    background-image: url("dinobackground.png");
+    background-image: url("..dinobackground.png");
     animation: animatedBackground 4s linear infinite;
 }
 
