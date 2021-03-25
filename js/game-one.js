@@ -35,7 +35,7 @@ var scoreText = {
     update: function (text) {
         gamearea.context.fillStyle = "pink";
         gamearea.context.font = "30px Consolas";
-        gamearea.context.fillText(text, 220, 200);
+        gamearea.context.fillText(text, 530, 200);
     }
 }
 var player = {
@@ -91,7 +91,7 @@ var gamearea = {
     canvas: document.createElement("canvas"),
     start: function () {
         this.canvas.height = 500;
-        this.canvas.width = 600;
+        this.canvas.width = 1200;
         document.body.insertBefore(this.canvas, document.body.childNodes[0]);
         this.context = this.canvas.getContext("2d");
         this.frame = 0;
@@ -132,7 +132,7 @@ var gamearea = {
         clearInterval(this.interval);
         gamearea.context.fillStyle = "red";
         gamearea.context.font = "25px Consolas";
-        gamearea.context.fillText("YOU GOT HIT BY THE BOYS", 120, 250);
+        gamearea.context.fillText("YOU GOT HIT BY THE BOYS", 450, 250);
         
     },
 }
